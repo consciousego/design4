@@ -2,7 +2,7 @@
 	plugin: Pricing Table
 	version: 01
 	website: logodesign4.us
-	description: Pricing Table for Squarespace
+	description: Pricing Table Update for Squarespace
 */
 function initPricingTable(a) {
   void 0 === a ? console.error("Pricing table parameter is undefined.") : 
